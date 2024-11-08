@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devh2t
 - 👀 I’m interested in AgriTech,GreenTech Technology
-- 🌱 I’m currently learning ML & Advanced AWS cloud
+- 🌱 I’m a Solution Architect
 
 
 <!---
